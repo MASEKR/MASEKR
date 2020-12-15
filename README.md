@@ -4,4 +4,3 @@
 
 💻 I'm ... : Junior Backend Developer <br>
 📜 I'm studying... : Django, Flask, NLP <br>
-🏃 I'm going to serve in the military until December 14, 2021.
